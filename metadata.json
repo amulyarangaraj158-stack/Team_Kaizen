@@ -1,0 +1,6 @@
+{
+  "name": "AutoPatch AI",
+  "description": "Autonomous Software Bug Detection, Root Cause Analysis, Code Repair & Validation Platform — Detect. Understand. Repair. Verify.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

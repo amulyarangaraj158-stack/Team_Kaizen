@@ -1,0 +1,6 @@
+{
+  "name": "AutoPatch AI",
+  "description": "Autonomous Software Bug Detection, Analysis, Regression Verification, and Safe Patch Repair Command Centre.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
